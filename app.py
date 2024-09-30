@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import seaborn as sns
 from io import BytesIO
 import tensorflow as tf
 import streamlit.components.v1 as components
