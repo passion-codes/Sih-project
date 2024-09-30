@@ -92,7 +92,6 @@ rich==13.8.1
 rpds-py==0.20.0
 ruff==0.6.7
 safetensors==0.4.5
-seaborn==0.13.2
 semantic-version==2.10.0
 shellingham==1.5.4
 six==1.16.0
@@ -104,8 +103,6 @@ sympy==1.13.3
 tenacity==8.5.0
 tensorboard==2.17.1
 tensorboard-data-server==0.7.2
-tensorflow-intel==2.17.0
-tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 tokenizers==0.20.0
 toml==0.10.2
